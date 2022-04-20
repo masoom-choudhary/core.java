@@ -14,8 +14,8 @@ public class cloud {
 	
 	public void disp2()  // Member Function
 	{
-		System.out.println("model "+1999);
-		System.out.println("coat "+200000);
+		System.out.println("model: "+1999);
+		System.out.println("coat:- "+200000);
 	}
 	
 
