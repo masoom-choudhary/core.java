@@ -2,7 +2,7 @@ package statickeyword;
 
 public class Nextedexanole {
 	private static String str="hi";
-	 class mynestedclass
+	static  class mynestedclass
 	{
 		public void display()
 		{
